@@ -1,6 +1,12 @@
 # Prerequisites
 *.d
 
+# MacOS shit
+.DS_Store
+
+#build filder
+build/
+
 # Compiled Object files
 *.slo
 *.lo
